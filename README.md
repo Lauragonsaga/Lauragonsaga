@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-  Sou <strong>Tecnóloga</strong> <strong> em Desenvolvimento Full Stack</strong> e estou me especializando em <strong>Desenvolvimento Full Stack Java</strong>.<br >
+  Sou <strong>Tecnóloga</strong> <strong> em Desenvolvimento Full Stack</strong> e estudo especialização em <strong>Desenvolvimento Full Stack Java</strong>.<br >
 <strong>Meu propósito é</strong> de me tornar uma <strong>Desenvolvedora,</strong>
 e poder <strong>criar algo Inovador</strong> que possa <strong>ajudar todas as pessoas</strong>.
 </p>
