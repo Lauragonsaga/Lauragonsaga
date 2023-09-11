@@ -1,16 +1,70 @@
-### Hi there 👋
+<span align="center">
 
-<!--
-**Lauragonsaga/Lauragonsaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Olá seja bem-vindo(a)!</h2>
 
-Here are some ideas to get you started:
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif" width="600px" />
+
+</div>
+
+
+<br>
+<p align="center">
+  Sou <strong>Tecnóloga</strong> <strong> em Desenvolvimento Full Stack</strong> e estou me especializando em <strong>Desenvolvimento Full Stack Java</strong>.<br >
+<strong>Meu propósito é</strong> de me tornar uma <strong>Desenvolvedora,</strong>
+e poder <strong>criar algo Inovador</strong> que possa <strong>ajudar todas as pessoas</strong>.
+</p>
+
+<p align="center">
+  💼 Habilidades: <strong>Java, Javascript, HTML, CSS, GitHub, Pyton .</strong>
+</p>
+
+<p align="center">
+  🚀  Estudando: <strong>Java, JavaScript, Typescript, Angular, Go, Pyton, HTML, CSS, SQL, C++, C#  .</strong>
+</p>
+
+<p align="center">
+  💌 Envie uma mensagem: ⤵️
+</p>
+
+<p align="center">
+ 
+ <a href="www.linkedin.com/in/lauragonsaga" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
+</p>  
+
+## 💻 Technologies & Tools
+
+<p align="center">
+  
+ 
+ <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
+ <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
+
+
+<img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
+  
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+  
+
+##  Escolas de Formação
+
+<div>
+  
+<img scr="https://afubesp.org.br/wp-content/uploads/2022/07/logo_ebac-960x640.png" height="40"/>
+<img scr="https://sindicomunitario.org.br/wp-content/uploads/2022/08/Estacio-Site.png" heignt="40"/>
+ 
+</div>
+
+
+
+
+
+  
+
+
+
