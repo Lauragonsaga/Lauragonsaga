@@ -50,13 +50,6 @@ e poder <strong>criar algo Inovador</strong> que possa <strong>ajudar todas as p
   
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
   
-
-##  Escolas de Formação
-
-<div>
-  
-<img scr="https://afubesp.org.br/wp-content/uploads/2022/07/logo_ebac-960x640.png" height="40"/>
-<img scr="https://sindicomunitario.org.br/wp-content/uploads/2022/08/Estacio-Site.png" heignt="40"/>
  
 </div>
 
