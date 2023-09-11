@@ -14,8 +14,8 @@
 <br>
 <p align="center">
   Sou <strong>Tecnóloga</strong> <strong> em Desenvolvimento Full Stack</strong> e estudo especialização em <strong>Desenvolvimento Full Stack Java</strong>.<br >
-<strong>Meu propósito é</strong> de me tornar uma <strong>Desenvolvedora,</strong>
-e poder <strong>criar algo Inovador</strong> que possa <strong>ajudar todas as pessoas</strong>.
+<strong>Meu propósito </strong>é de me tornar uma <strong>Desenvolvedora,</strong>
+e poder <strong>criar algo Inovador</strong> que possa ajudar todas as pessoas.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ e poder <strong>criar algo Inovador</strong> que possa <strong>ajudar todas as p
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>Java, JavaScript, Typescript, Angular, Go, Pyton, HTML, CSS, CSS, C++, C#, PHP .</strong>
+  🚀  Estudando: <strong>Java, JavaScript, Typescript, Angular, Go, Pyton, HTML, CSS, C++, C#, PHP .</strong>
 </p>
 
 <p align="center">
