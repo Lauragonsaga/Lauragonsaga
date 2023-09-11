@@ -19,7 +19,7 @@ e poder <strong>criar algo Inovador</strong> que possa <strong>ajudar todas as p
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Java, Javascript, HTML, CSS, GitHub, Pyton .</strong>
+  💼 Habilidades: <strong>Java, Javascript, HTML, CSS, GitHub, Pyton, React.</strong>
 </p>
 
 <p align="center">
