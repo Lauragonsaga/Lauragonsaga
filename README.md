@@ -19,11 +19,11 @@ e poder <strong>criar algo Inovador</strong> que possa <strong>ajudar todas as p
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Java, Javascript, HTML, CSS, GitHub, Pyton, React.</strong>
+  💼 Habilidades: <strong>Javascript , HTML, CSS, GitHub, Pyton.</strong>
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>Java, JavaScript, Typescript, Angular, Go, Pyton, HTML, CSS, SQL, C++, C#  .</strong>
+  🚀  Estudando: <strong>Java, JavaScript, Typescript, Angular, Go, Pyton, HTML, CSS, CSS, C++, C#, PHP .</strong>
 </p>
 
 <p align="center">
