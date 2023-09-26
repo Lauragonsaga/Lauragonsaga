@@ -1,6 +1,7 @@
 <span align="center">
 
 ##  Olá seja bem-vindo(a)!</h2>
+
 <div align="center">
   <kbd align="center"> 
     <kbd>Número de Visitas</kbd>
@@ -8,11 +9,8 @@
     <img src="https://profile-counter.glitch.me/danibassetto/count.svg"></p>
   </kbd>
 </div>
-
 </span>
-
 <div align="center">
-
 <img src="https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif" width="600px" />
 
 </div>
@@ -56,6 +54,12 @@ e poder <strong>criar algo Inovador</strong> que possa ajudar todas as pessoas.
 <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
   
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+
+<div align="center">
+  <h3 align="center">Watch my contribution graph get eaten by the snake 🐍</h3>
+  
+  <img src="https://github.com/eduardoboares/eduardoboares/blob/output/github-contribution-grid-snake.svg" alt="animated" />
+</div>
   
  
 </div>
