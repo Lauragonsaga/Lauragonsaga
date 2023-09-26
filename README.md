@@ -1,6 +1,13 @@
 <span align="center">
 
 ##  Olá seja bem-vindo(a)!</h2>
+<div align="center">
+  <kbd align="center"> 
+    <kbd>Número de Visitas</kbd>
+    <br/><br/>
+    <img src="https://profile-counter.glitch.me/danibassetto/count.svg"></p>
+  </kbd>
+</div>
 
 </span>
 
