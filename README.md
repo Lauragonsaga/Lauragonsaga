@@ -59,9 +59,11 @@ e poder <strong>criar algo Inovador</strong> que possa ajudar todas as pessoas.
   <h3 align="center">Watch my contribution graph get eaten by the snake 🐍</h3>
   
   <img src="https://github.com/eduardoboares/eduardoboares/blob/output/github-contribution-grid-snake.svg" alt="animated" />
-</div>
-  
+
  
+
+</div>
+
 </div>
 
 
