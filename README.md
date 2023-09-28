@@ -6,7 +6,7 @@
   <kbd align="center"> 
     <kbd>Número de Visitas</kbd>
     <br/><br/>
-    <img src="https://profile-counter.glitch.me/danibassetto/count.svg"></p>
+    <img src="https://profile-counter.glitch.me/Lauragonsaga/count.svg"></p>
   </kbd>
 </div>
 </span>
@@ -18,17 +18,17 @@
 
 <br>
 <p align="center">
-  Sou <strong>Tecnóloga</strong> <strong> em Desenvolvimento Full Stack</strong> e estudo especialização em <strong>Desenvolvimento Full Stack Java</strong>.<br >
+  Sou <strong>Estudante</strong> <strong> em Analise e Desenvolvimento de Sistemas</strong> e estudo especialização em <strong>Desenvolvimento Full Stack Java</strong>.<br >
 <strong>Meu propósito </strong>é de me tornar uma <strong>Desenvolvedora,</strong>
 e poder <strong>criar algo Inovador</strong> que possa ajudar todas as pessoas.
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Javascript , HTML, CSS, GitHub, Pyton.</strong>
+  💼 Habilidades: <strong>Javascript , HTML, GitHub, Pyton.</strong>
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>Java, JavaScript, Typescript, Angular, Go, Pyton, HTML, CSS, C++, C#, PHP .</strong>
+  🚀  Estudando: <strong>Java, AWS, Spring boot, Typescript, Angular, Azure , C#, PHP .</strong>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ e poder <strong>criar algo Inovador</strong> que possa ajudar todas as pessoas.
 
 <div align="center">
   <h3 align="center">Watch my contribution graph get eaten by the snake 🐍</h3>
-  
+
   <img src="https://github.com/eduardoboares/eduardoboares/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 
  
