@@ -24,11 +24,11 @@ e poder <strong>criar algo Inovador de preferencia na parte Agro</strong> que po
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Javascript , HTML, GitHub, Pyton.</strong>
+  💼 Habilidades: <strong>Java, HTML, CSS, GitHub, Pyton.</strong>
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>Java, AWS, Spring boot, Typescript, Angular, Azure , C#, PHP .</strong>
+  🚀  Estudando: <strong> AWS , Azure, Spring boot, MySQL , JavaScript , Angular , C#.</strong>
 </p>
 
 <p align="center">
