@@ -20,7 +20,7 @@
 <p align="center">
   Sou <strong>Estudante</strong> <strong> em Analise e Desenvolvimento de Sistemas</strong> e estudo especialização em <strong>Desenvolvimento Full Stack Java</strong>.<br >
 <strong>Meu propósito </strong>é de me tornar uma <strong>Desenvolvedora,</strong>
-e poder <strong>criar algo Inovador</strong> que possa ajudar todas as pessoas.
+e poder <strong>criar algo Inovador de preferencia na parte Agro</strong> que possa ajudar todas as pessoas tanto no campo como na area Urbana.
 </p>
 
 <p align="center">
