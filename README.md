@@ -9,10 +9,9 @@
     <img src="https://profile-counter.glitch.me/Lauragonsaga/count.svg"></p>
   </kbd>
 </div>
-</span>
 <div align="center">
-<img src="https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif" width="600px" />
-
+   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 
 
